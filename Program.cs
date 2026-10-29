@@ -60,6 +60,8 @@ namespace Week10ChallangeLabs
                 count2++;
             }
 
+            Array.Sort(newArray);
+
             return newArray;
 
         }
