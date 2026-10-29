@@ -40,7 +40,7 @@ namespace Week10ChallangeLabs
         {
             int count = 0;
             int count2 = 0;
-            int total = num1.Length > num2.Length ? num1.Length : num2.Length;
+            int total = x + y;
 
             int[] newArray = new int[total];
 
